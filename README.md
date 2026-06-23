@@ -39,7 +39,3 @@ If you are running a native Windows environment, navigate to the root directory 
 ```bash
 start medical-simplifier.html
 
-RESULT;
-<img width="1918" height="1001" alt="image" src="https://github.com/user-attachments/assets/866afe2d-c0e5-4a8b-87fc-c1ac48ee50de" />
-<img width="1913" height="1077" alt="image" src="https://github.com/user-attachments/assets/ffe83485-f0a6-4501-9e7f-212bd38cf9d3" />
-<img width="1917" height="1006" alt="image" src="https://github.com/user-attachments/assets/dfd4a987-bec0-401f-bc53-e0487c2ad655" />
