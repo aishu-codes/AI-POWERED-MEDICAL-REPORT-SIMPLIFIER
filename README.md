@@ -1,4 +1,5 @@
 ﻿ # MedAI Simplifier: AI-Powered Medical Report Tracker
+  <img width="1918" height="1001" alt="image" src="https://github.com/user-attachments/assets/866afe2d-c0e5-4a8b-87fc-c1ac48ee50de" />
 
 A high-reliability, responsive frontend dashboard designed for healthcare ecosystems. This application takes highly complex, jargon-heavy clinical laboratory data, MRI summaries, or physician prescriptions and leverages generative AI paradigms to translate them into clear, patient-friendly summaries while executing automated triage assessment.
 
